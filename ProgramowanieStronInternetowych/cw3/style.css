@@ -1,0 +1,79 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1.4em;
+  vertical-align: baseline;
+  text-decoration: none;
+  outline: 0;
+}
+header{
+  background-color: black;
+  height: 10em;
+  width: 15%;
+  float: left;
+  text-align: center;
+}
+.logo{
+  text-align: center;
+  background-color: black;
+  height: 10em;
+  width: 70%;
+  float: left;
+}
+.login{
+  background-color: black;
+  height: 10em;
+  width: 15%;
+  float: left;
+  text-align: center;
+}
+.login h3{
+  padding-top: 3em;
+  color: white;
+}
+header h3{
+  padding-top: 3em;
+  color: white;
+}
+nav{
+  text-align: center;
+  clear: both;
+  background-color: #DECCFF;
+  width: 15%;
+  height: 30em;
+  float: left;
+}
+main{
+  text-align: center;
+  background-color: #E8DCAC;
+  width: 70%;
+  height: 30em;
+  float: left;
+}
+aside{
+  text-align: center;
+  background-color: #DECCFF;
+  width: 15%;
+  height: 30em;
+  float:left;
+}
+body{
+  font-family: Courier;
+}
+footer{
+  text-align: center;
+  clear: both;
+  background-color: black;
+  height: 7em;
+}
+footer h3{
+  padding-top: 2em;
+  color: white;
+}
+center{
+  margin-top: 50%;
+}
+.centerr{
+  margin-top: 50%;
+}
